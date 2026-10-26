@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+*.db
+test_*.db
+.pytest_cache/
+
+# Temp files
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+backend/.env
+frontend/.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
